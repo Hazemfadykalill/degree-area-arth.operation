@@ -1,2 +1,1 @@
-# degree&area&arth.operation
- degree&area&arth.operation
+A simple command-line application.
